@@ -11,7 +11,11 @@ namespace savaitgalinis09_05
             {
                 Console.WriteLine(a);
             }
-
+            string vardas = Console.ReadLine();
+            for(int i =0; i < 100; i++)
+            {
+                Console.WriteLine(vardas);
+            }
             
             
 
