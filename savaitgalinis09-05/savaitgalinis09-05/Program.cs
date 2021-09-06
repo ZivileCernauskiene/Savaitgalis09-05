@@ -6,7 +6,16 @@ namespace savaitgalinis09_05
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("____________________________________________________________________________________________________");
+            for(char a = 'a'; a <= 'z'; a++)
+            {
+                Console.WriteLine(a);
+            }
+
+            
+            
+
+
         }
     }
 }
